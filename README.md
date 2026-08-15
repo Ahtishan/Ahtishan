@@ -35,8 +35,10 @@ Passionate about architecting production-grade **Agentic AI Systems**, **Autonom
 
 ---
 
+---
+
 ### 📬 Connect With Me
 
-- **Email:** [Your Professional Email Here]
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
-- **Portfolio:** [Your Portfolio Website Link Here]
+- 📧 **Email:** [ahtishan.younas@gmail.com](mailto:ahtishan.younas@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ahtishanyounas](https://linkedin.com)
+- 🌐 **Portfolio:** [ahtishan.dev](https://github.com/Ahtishan)
